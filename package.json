@@ -1,0 +1,20 @@
+{
+  "name": "campeonato-lol",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de campeonato de League of Legends",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.0",
+    "cookie-parser": "^1.4.6"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "author": "Carlos",
+  "license": "ISC"
+}
